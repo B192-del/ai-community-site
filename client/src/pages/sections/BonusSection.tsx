@@ -24,6 +24,16 @@ export const BonusSection = (): JSX.Element => {
       description:
         "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
     },
+    {
+      title: "Behavioral & Leadership Stories: Craft narratives that resonate with AI-first hiring teams",
+      description:
+        "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
+    },
+    {
+      title: "Offer Negotiation & Job Search Strategy: Convert interviews into offers at top AI companies",
+      description:
+        "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
+    },
   ];
 
   return (
